@@ -1,0 +1,2 @@
+model,f1,precision,recall,false_negative_rate,false_positive_rate
+Model A - Single-Frame MobileNetV2,0.8144329896907216,0.8633879781420765,0.7707317073170732,0.22926829268292684,0.048828125
