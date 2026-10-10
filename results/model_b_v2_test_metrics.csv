@@ -1,0 +1,2 @@
+model,f1,precision,recall
+"Model B v2 - Temporal LSTM, Unfrozen Backbone",0.7662650602409639,0.7571428571428571,0.775609756097561
