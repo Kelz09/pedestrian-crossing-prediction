@@ -1,0 +1,2 @@
+model,f1,precision,recall,false_negative_rate,false_positive_rate
+Model B - Temporal LSTM,0.7865707434052758,0.7735849056603774,0.8,0.2,0.09375
